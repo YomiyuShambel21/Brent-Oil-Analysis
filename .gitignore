@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Conda environment files
+brent_oil_env/
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and database files
+*.log
+*.sqlite
+*.db
+
+# Python cache and metadata
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# Flask & FastAPI related
+instance/
+.env
+*.env
+
+# Dash and frontend builds
+node_modules/
+*.map
+build/
+dist/
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Data files
+*.csv
+*.xlsx
+*.json
+data/
